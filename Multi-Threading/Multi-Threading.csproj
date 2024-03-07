@@ -6,7 +6,7 @@
 		<RootNamespace>Multi_Threading</RootNamespace>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<StartupObject>Multi_Threading.ThreadJoin</StartupObject>
+		<StartupObject>Multi_Threading.ThreadPritorities</StartupObject>
 	</PropertyGroup>
 
 </Project>
