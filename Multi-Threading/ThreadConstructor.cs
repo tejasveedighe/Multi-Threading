@@ -35,6 +35,7 @@ namespace Multi_Threading
 
             ParameterizedThreadStart pStart = new ParameterizedThreadStart(Test2); // paramterized thread delegate but only takes object as params
             Thread t4 = new Thread(pStart);
+            t4.Start(45);
         }
     }
 }
