@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<OutputType>Exe</OutputType>
@@ -6,7 +6,7 @@
 		<RootNamespace>Multi_Threading</RootNamespace>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<StartupObject>Multi_Threading.ThreadLocking</StartupObject>
+		<StartupObject>Multi_Threading.ThreadJoin</StartupObject>
 	</PropertyGroup>
 
 </Project>
